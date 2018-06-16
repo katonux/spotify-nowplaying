@@ -1,0 +1,16 @@
+.container{
+  width: 100%;
+  height: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.box{
+  height: 100%;
+}
+
+.np{
+  margin: 3cm;
+}

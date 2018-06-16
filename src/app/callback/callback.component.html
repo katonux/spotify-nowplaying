@@ -1,0 +1,14 @@
+<div class="text-center">
+	<button type="button" class="btn btn-lg btn-primary btn-block" (click)='onclick()'>Get NowPlaying</button>
+</div>
+
+<div class="text-center">
+
+	<div *ngIf="genflag">
+
+		<h5>Your are playing ...</h5>
+    <h5> {{param.item.name}} by {{param.item.album.artists[0].name}}</h5>
+
+		<a class="btn btn-lg btn-primary btn-block" href="{{tweeturi}}" role="button" target="_blank">Tweet</a>
+	</div>
+</div>
