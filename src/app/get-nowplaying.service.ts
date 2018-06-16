@@ -1,7 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute } from '@angular/router';
-import 'rxjs/add/operator/map';
 
 @Injectable()
 export class GetNowplayingService {
