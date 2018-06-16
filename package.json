@@ -1,7 +1,6 @@
 {
-  "name": "angular-template",
+  "name": "spotify-nowplaying",
   "description": "",
-  "homepage": "https://stackblitz.com/edit/spotify-nowplaying",
   "dependencies": {
     "@angular/animations": "^5.0.0",
     "@angular/common": "6.0.0",
