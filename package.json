@@ -15,10 +15,11 @@
     "bootstrap": "4.1.1",
     "core-js": "2.5.5",
     "hoek": "^5.0.3",
-    "jquery": "3.3.1",
+    "jquery": "^3.4.0",
     "popper.js": "1.14.3",
     "rxjs": "6.1.0",
     "rxjs-compat": "6.2.0",
+    "tar": "^4.4.8",
     "webpack-dev-server": "^3.1.4",
     "zone.js": "0.8.26"
   },
